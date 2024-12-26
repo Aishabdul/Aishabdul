@@ -4,9 +4,7 @@
 - 📚 I’m learning python & Machine Learning Concepts.
 - 📜 Started to work on Reimplementing and Reproducing Papers
 - 👨🏻‍🔬 Professional Experience - Softskill Trainer.
-
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Gmail: niloa845@gmail.com
 
 
 <!---
